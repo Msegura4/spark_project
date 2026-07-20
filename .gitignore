@@ -1,0 +1,15 @@
+# Cours
+fichiers_cours/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# OS
+.DS_Store
