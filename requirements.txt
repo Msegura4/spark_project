@@ -1,0 +1,5 @@
+pyspark==4.0.4
+pandas==2.3.3
+tqdm==4.69.0
+jupyter==1.1.1
+requests==2.32.5
