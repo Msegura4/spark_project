@@ -1,14 +1,16 @@
-# Cours
-fichiers_cours/
-
 # Data (recréé par download_data.py, historique_stations.csv fourni manuellement)
 data/
+
+# Données manuelles lourdes dans fichiers_cours
+fichiers_cours/data_exercice/historique_stations.csv
 
 # Python
 venv/
 __pycache__/
 *.pyc
 *.pyo
+
+# Jupyter
 .ipynb_checkpoints/
 
 # OS
