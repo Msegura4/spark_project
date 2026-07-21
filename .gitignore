@@ -1,7 +1,8 @@
 # Data (recréé par download_data.py, historique_stations.csv fourni manuellement)
 data/
 
-# Données manuelles lourdes dans fichiers_cours
+# Données manuelles lourdes (376 MB, non versionnées)
+# --> Demander le fichier historique_stations.csv à l'auteur du repo
 fichiers_cours/data_exercice/historique_stations.csv
 
 # Python
