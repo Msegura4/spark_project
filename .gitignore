@@ -1,15 +1,15 @@
 # Cours
 fichiers_cours/
 
+# Data (recréé par download_data.py, historique_stations.csv fourni manuellement)
+data/
+
 # Python
 venv/
 __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
-
-# Data
-data/
 
 # OS
 .DS_Store
