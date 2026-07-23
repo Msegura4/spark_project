@@ -40,7 +40,7 @@ def download_stations():
     print(f"  {len(df)} stations sauvegardées → {STATIONS_CSV}")
 
 
-def download_meteo(date_debut="2022-01-01", date_fin="2023-12-31"):
+def download_meteo(date_debut="2020-11-01", date_fin="2021-02-28"):
     """Télécharge les données météo horaires Paris-Montsouris via Open-Meteo."""
     params = {
         "latitude"       : 48.8214,
