@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## 3. Récupérer les données
 
 ```bash
-python download_data.py
+python script_download_data.py
 ```
 
 Ce script crée le dossier `data/` et télécharge :
