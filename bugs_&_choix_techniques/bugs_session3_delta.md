@@ -14,7 +14,7 @@ Plusieurs erreurs ont été rencontrées en cours de route et des choix pédagog
 
 ### Cause
 Le notebook original utilisait `station_id` comme identifiant de station.
-Notre pipeline Vélib ne génère pas cet identifiant — la colonne disponible est `nom_station`.
+Notre pipeline Vélib ne génère pas cet identifiant, la colonne disponible est `nom_station`.
 
 ### Fix
 Remplacer toutes les références à `station_id` par `nom_station`.
